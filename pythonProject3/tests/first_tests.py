@@ -13,5 +13,6 @@ class TestCalc:
     def test_subtraction_correctly(self):
         assert self.calc.subtraction(self, 10, 4) == 6
 
+        
     def test_adding_correctly(self):
         assert self.calc.adding(self, 7, 3) == 10
