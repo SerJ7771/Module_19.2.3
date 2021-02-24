@@ -1,0 +1,2 @@
+pet_name	pet_type	pet_age
+Персик		Кот		4
